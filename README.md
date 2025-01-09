@@ -23,6 +23,5 @@ WILL NOT BE HOSTED ON VERCEL
 
 ## Reviewed by: Santiago Jesus Montanez
 
-Everything looks from Swaggers end
-I am having issues with Postman, so I couldn't check there. However, I noticed in the servicess for reverse numbers and odd or even you don't have any validations.
-Just make sure to have something in the future for it. Otherwise you are good
+> Everything looks from Swaggers end. 
+>I am having issues with Postman, so I couldn't check there. Otherwise you are good.
