@@ -23,5 +23,6 @@ WILL NOT BE HOSTED ON VERCEL
 
 ## Reviewed by: Santiago Jesus Montanez
 
-> Everything looks from Swaggers end. 
+> Everything looks from Swaggers end.
+
 >I am having issues with Postman, so I couldn't check there. Otherwise you are good.
